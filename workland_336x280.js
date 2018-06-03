@@ -671,10 +671,10 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/_1.jpg", id:"_1"},
-		{src:"images/_2.jpg", id:"_2"},
-		{src:"images/_3.jpg", id:"_3"},
-		{src:"images/riba.jpg", id:"riba"}
+		{src:"https://raw.githubusercontent.com/marckonno/wrkland_336x280/master/images/_1.jpg", id:"_1"},
+		{src:"https://raw.githubusercontent.com/marckonno/wrkland_336x280/master/images/_2.jpg", id:"_2"},
+		{src:"https://raw.githubusercontent.com/marckonno/wrkland_336x280/master/images/_3.jpg", id:"_3"},
+		{src:"https://raw.githubusercontent.com/marckonno/wrkland_336x280/master/images/riba.jpg", id:"riba"}
 	],
 	preloads: []
 };
