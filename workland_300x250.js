@@ -590,9 +590,9 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"https://github.com/marckonno/wrkland_336x280/blob/master/images/_1.jpg", id:"_1"},
-		{src:"https://github.com/marckonno/wrkland_336x280/blob/master/images/_2.jpg", id:"_2"},
-		{src:"https://github.com/marckonno/wrkland_336x280/blob/master/images/_3.jpg", id:"_3"}
+		{src:"https://raw.githubusercontent.com/marckonno/wrkland_336x280/master/images/_1.jpg", id:"_1"},
+		{src:"https://raw.githubusercontent.com/marckonno/wrkland_336x280/master/images/_2.jpg", id:"_2"},
+		{src:"https://raw.githubusercontent.com/marckonno/wrkland_336x280/master/images/_3.jpg", id:"_3"}
 	],
 	preloads: []
 };
